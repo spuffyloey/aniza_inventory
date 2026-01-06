@@ -5,7 +5,7 @@ if(isset($_SESSION['role'])){
     exit();
 }
 ?>
-<!DOCTYPE html>ddddddddddddddddddddddddddddddddddddddddddddddd
+<!DOCTYPE html>
 <html>
 <head><title>Aniza Collection Login</title></head>
 <body>
@@ -26,4 +26,5 @@ if(isset($_SESSION['role'])){
 </form>
 </body>
 </html>
+
 
